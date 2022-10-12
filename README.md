@@ -29,7 +29,7 @@
 ## 麥當勞報報APP 甘特圖
 ```mermaid
 gantt
-    title 憤怒の理畯 甘特圖
+    title 麥當勞報報APP 甘特圖
     dateFormat  YYYY-MM-DD
     section 游戲前置準備
     討論工作分配           :a1, 2022-10-08, 1d
