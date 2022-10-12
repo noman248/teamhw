@@ -7,7 +7,7 @@
 |組員|C109118252|[林君熹](https://github.com/clemon2)|
 |組員|C109118228|[王聖佑](https://github.com/C109118228)|
 |組員|C109151217|[吳宗諺](https://github.com/C109118217)|
-|組員|C109151218|[黃楙方](https://github.com/)|
+|組員|C109151218|[黃楙方](https://github.com/C109118218)|
 
 ---
 ###  組員任務
