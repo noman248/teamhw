@@ -5,7 +5,7 @@
 |:--:|:--:|:--:|
 |*組長*|C109118248|[徐偉軒](https://github.com/noman248)|
 |組員|C109118252|[林君熹](https://github.com/clemon2)|
-|組員|C109118228|[王聖佑](https://github.com/Alexlowyikang)|
+|組員|C109118228|[王聖佑](https://github.com/C09118228)|
 |組員|C109151217|[吳宗諺](https://github.com/C09118217)|
 |組員|C109151218|[黃楙方](https://github.com/C09118228)|
 
