@@ -55,4 +55,4 @@ gantt
 ```
 
 ## 麥當勞報報APPPERT圖
-![Pert](Pert_angryjonathan.png)
+![Pert](pert.png)
